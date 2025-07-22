@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-az400
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: '{{ secrets.AZURE_SUBSCRIPTION_ID }}'
+  SUBSCRIPTION-ID: 37c81795-5bb3-428b-a80e-f0159dd5414f
   WEBAPP-NAME: eshoponweb-webapp-az400
 
 
